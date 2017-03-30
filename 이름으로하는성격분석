@@ -1,0 +1,725 @@
+{
+   "displays" : [
+      {
+         "template" : "1",
+         "outer_btn" : [
+            {
+               "target" : "login:random:1-6",
+               "text" : "확인하기"
+            }
+         ],
+         "message" : "나의 성격은!?",
+         "title" : "이름으로 하는 성격 분석",
+         "text" : [
+            {
+               "x" : "600",
+               "y" : "270",
+               "text" : "이름으로 하는 성격 분석",
+               "style" : {
+                  "fill" : "#000000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 80,
+                  "fontFamily" : "Noto Sans KR",
+                  "wordWrapWidth" : "500",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            }
+         ]
+      },
+      {
+         "template" : "2",
+         "message" : "",
+         "title" : "이름으로 하는 성격 분석",
+         "text" : [
+            {
+               "x" : "263",
+               "y" : "521",
+               "text" : "-myName",
+               "style" : {
+                  "fill" : "#000000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 50,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "400",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "605",
+               "y" : "77",
+               "text" : "-myName 님의 이름 분석 결과",
+               "style" : {
+                  "fill" : "#000000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 60,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "1015.05",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "207",
+               "text" : "0%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "289",
+               "text" : "20%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "371",
+               "text" : "80%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "453",
+               "text" : "0%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "536",
+               "text" : "0%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            }
+         ],
+         "me" : {
+            "x" : "106.65",
+            "y" : "187.3",
+            "width" : "314.1",
+            "height" : "317.05"
+         }
+      },
+      {
+         "template" : "2",
+         "message" : "",
+         "title" : "이름으로 하는 성격 분석",
+         "text" : [
+            {
+               "x" : "263",
+               "y" : "521",
+               "text" : "-myName",
+               "style" : {
+                  "fill" : "#000000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 50,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "400",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "605",
+               "y" : "77",
+               "text" : "-myName 님의 이름 분석 결과",
+               "style" : {
+                  "fill" : "#000000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 60,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "1015.05",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "207",
+               "text" : "60%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "289",
+               "text" : "0%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "371",
+               "text" : "20%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "453",
+               "text" : "0%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "536",
+               "text" : "20%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            }
+         ],
+         "me" : {
+            "x" : "106.65",
+            "y" : "187.3",
+            "width" : "314.1",
+            "height" : "317.05"
+         }
+      },
+      {
+         "template" : "2",
+         "message" : "",
+         "title" : "이름으로 하는 성격 분석",
+         "text" : [
+            {
+               "x" : "263",
+               "y" : "521",
+               "text" : "-myName",
+               "style" : {
+                  "fill" : "#000000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 50,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "400",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "605",
+               "y" : "77",
+               "text" : "-myName 님의 이름 분석 결과",
+               "style" : {
+                  "fill" : "#000000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 60,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "1015.05",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "207",
+               "text" : "0%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "289",
+               "text" : "0%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "371",
+               "text" : "40%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "453",
+               "text" : "20%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "536",
+               "text" : "40%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            }
+         ],
+         "me" : {
+            "x" : "106.65",
+            "y" : "187.3",
+            "width" : "314.1",
+            "height" : "317.05"
+         }
+      },
+      {
+         "template" : "2",
+         "message" : "",
+         "title" : "이름으로 하는 성격 분석",
+         "text" : [
+            {
+               "x" : "263",
+               "y" : "521",
+               "text" : "-myName",
+               "style" : {
+                  "fill" : "#000000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 50,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "400",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "605",
+               "y" : "77",
+               "text" : "-myName 님의 이름 분석 결과",
+               "style" : {
+                  "fill" : "#000000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 60,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "1015.05",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "207",
+               "text" : "20%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "289",
+               "text" : "20%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "371",
+               "text" : "20%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "453",
+               "text" : "20%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "536",
+               "text" : "20%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            }
+         ],
+         "me" : {
+            "x" : "106.65",
+            "y" : "187.3",
+            "width" : "314.1",
+            "height" : "317.05"
+         }
+      },
+      {
+         "template" : "2",
+         "message" : "",
+         "title" : "이름으로 하는 성격 분석",
+         "text" : [
+            {
+               "x" : "263",
+               "y" : "521",
+               "text" : "-myName",
+               "style" : {
+                  "fill" : "#000000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 50,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "400",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "605",
+               "y" : "77",
+               "text" : "-myName 님의 이름 분석 결과",
+               "style" : {
+                  "fill" : "#000000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 60,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "1015.05",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "207",
+               "text" : "40%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "289",
+               "text" : "0%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "371",
+               "text" : "20%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "453",
+               "text" : "20%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "536",
+               "text" : "0%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            }
+         ],
+         "me" : {
+            "x" : "106.65",
+            "y" : "187.3",
+            "width" : "314.1",
+            "height" : "317.05"
+         }
+      },
+      {
+         "template" : "2",
+         "message" : "",
+         "title" : "이름으로 하는 성격 분석",
+         "text" : [
+            {
+               "x" : "263",
+               "y" : "521",
+               "text" : "-myName",
+               "style" : {
+                  "fill" : "#000000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 50,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "400",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "605",
+               "y" : "77",
+               "text" : "-myName 님의 이름 분석 결과",
+               "style" : {
+                  "fill" : "#000000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 60,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "1015.05",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "207",
+               "text" : "20%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "289",
+               "text" : "20%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "371",
+               "text" : "60%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "453",
+               "text" : "0%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            },
+            {
+               "x" : "934.5",
+               "y" : "536",
+               "text" : "0%",
+               "style" : {
+                  "fill" : "#0000",
+                  "fontWeight" : "bold",
+                  "fontSize" : 30,
+                  "fontFamily" : "Arial",
+                  "wordWrapWidth" : "200",
+                  "wordWrap" : true,
+                  "align" : "center"
+               }
+            }
+         ],
+         "me" : {
+            "x" : "106.65",
+            "y" : "187.3",
+            "width" : "314.1",
+            "height" : "317.05"
+         }
+      }
+   ],
+   "thumbnail" : [
+      {
+         "text" : "이름으로 보는",
+         "style" : {
+            "fill" : "#000000",
+            "fontWeight" : "bold",
+            "fontSize" : 100,
+            "fontFamily" : "Jeju Hallasan",
+            "wordWrapWidth" : "800",
+            "wordWrap" : true,
+            "align" : "center"
+         },
+         "y" : "180"
+      },
+      {
+         "text" : "성격 분석",
+         "style" : {
+            "fill" : "#000000",
+            "fontWeight" : "bold",
+            "fontSize" : 100,
+            "fontFamily" : "Jeju Hallasan",
+            "wordWrapWidth" : "800",
+            "wordWrap" : true,
+            "align" : "center"
+         },
+         "y" : "0"
+      }
+   ]
+}
